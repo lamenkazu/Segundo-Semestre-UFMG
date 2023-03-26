@@ -1,0 +1,2 @@
+
+void tiraBarraN(char texto[]);
